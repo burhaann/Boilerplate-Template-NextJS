@@ -1,3 +1,5 @@
+# Fullstack-Boilerplate-Template-NextJS
+
 # NextJS-Full-Stack-Blog
 
 ## Getting Started
@@ -27,4 +29,3 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-# Fullstack-Boilerplate-Template-NextJS
